@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>career Guidance System</title>
+    <title>Travel management system</title>
     
     <!-- CSS Files -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
@@ -19,7 +19,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">career Guidance System</a>
+            <a class="navbar-brand" href="#">Travel management system</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -74,7 +74,7 @@
         <div class="container py-4">
             <div class="row">
                 <div class="col-md-6">
-                    <h5>career Guidance System</h5>
+                    <h5>Travel management system</h5>
                     <p>Best Guidance provide here</p>
                 </div>
                 <div class="col-md-6">
